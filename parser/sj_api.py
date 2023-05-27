@@ -1,4 +1,4 @@
-from parser.abstract_api import AbstractVacanciesAPI
+from abstract_api import AbstractVacanciesAPI
 
 import requests
 import os
